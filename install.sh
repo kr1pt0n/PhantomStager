@@ -7,7 +7,7 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 
 echo -e "${CYAN}===================================================="
-echo -e "      PERUVIAN OFFSEC v5 - INSTALLER (KALI)"
+echo -e "      kr1pt0n OFFSEC - INSTALLER (KALI-PARROT-UBUNTU)"
 echo -e "====================================================${NC}"
 
 # Verificar si se corre como root
