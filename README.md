@@ -1,4 +1,4 @@
-# 🧠 PHANTOM STAGER LAB
+# 🧠 PHANTOM STAGER
 
 > Plataforma de laboratorio para generación, análisis y compilación de payloads en entornos controlados de Red Team.
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Descripción
 
-**Phantom Stager Lab** es una aplicación web desarrollada en Flask que permite:
+**Phantom Stager** es una aplicación web desarrollada en Flask que permite:
 
 * Generar payloads en PowerShell
 * Aplicar técnicas de ofuscación (Base64)
