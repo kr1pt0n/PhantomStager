@@ -51,30 +51,14 @@ Interfaz estilo cyber/dashboard con:
 
 ## 📦 Instalación
 
-### 1. Clonar repositorio
+### Clonar repositorio
 
 ```bash
 git clone https://github.com/kr1pt0n/PhantomStager.git
 cd PhantomStager
+chmod +x install.sh
+./install.sh
 ```
-
----
-
-### 2. Instalar dependencias
-
-```bash
-sudo apt install python3-flask -y
-```
-
----
-
-### 3. Instalar Mono (para EXE)
-
-```bash
-sudo apt update
-sudo apt install mono-mcs -y
-```
-
 ---
 
 ## ▶️ Ejecución
